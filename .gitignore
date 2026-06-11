@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/
+
+# Data / outputs
+outputs/
+artifacts/
+*.csv
+*.parquet
+*.feather
+
+# OS
+.DS_Store
+Thumbs.db
+
+#dataset
+India_runs_data_and_ai_challenge/README.docx
+India_runs_data_and_ai_challenge/candidate_schema.json
+India_runs_data_and_ai_challenge/candidates.jsonl
+India_runs_data_and_ai_challenge/job_description.docx
+India_runs_data_and_ai_challenge/redrob_signals_doc.docx
+India_runs_data_and_ai_challenge/sample_candidates.json
+India_runs_data_and_ai_challenge/submission_metadata_template.yaml
+India_runs_data_and_ai_challenge/submission_spec.docx
