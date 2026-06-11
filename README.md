@@ -1,10 +1,10 @@
 # TalentLens AI
 
-TalentLens AI is a recruiter-style candidate ranking system for hackathon submissions. It reads a job description, analyzes candidate profiles, scores fit using a hybrid of semantic overlap, skill evidence, career relevance, and risk penalties, then exports a ranked shortlist.
+TalentLens AI is a recruiter-style candidate ranking system. It reads a job description, analyzes candidate profiles, scores fit using a hybrid of semantic overlap, skill evidence, career relevance, and risk penalties, then exports a ranked shortlist.
 
 ## What this workspace is for
 
-The project is designed around the shared hackathon brief:
+The project is designed around:
 
 - Rank candidates like a recruiter, not by keyword matching alone.
 - Use the full profile: career history, skills, platform signals, and evidence.
